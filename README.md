@@ -6,7 +6,7 @@ Sistema para análisis de seguridad en aplicaciones móviles usando MobSF en Doc
 ### 🚀 Instalación Rápida
 ```bash
 # Clonar proyecto
-git clone [tu-repositorio]
+git clone https://github.com/Sterwinc/Mobile-Security.git
 
 # Ejecutar
 cd mobsf-security-project
