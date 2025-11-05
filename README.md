@@ -79,4 +79,6 @@ Cliente Web (Navegador)
             → Detección de Vulnerabilidades
                 → Generación de Reportes (PDF/HTML)
 ```
-🔧 Comandos Útiles para GestiónUtiliza estos comandos de docker-compose para administrar tu entorno MobSF:ComandoDescripcióndocker-compose up -dIniciar la aplicación y ejecutar los contenedores en segundo plano.docker-compose downDetener y eliminar los contenedores y redes creados por Compose.docker-compose logs -fVer los logs de los servicios en tiempo real.docker-compose psVer el estado actual de los contenedores.docker-compose restartReiniciar el servicio MobSF.docker statsVer el uso de recursos (CPU, RAM) de los contenedores activos.
+##🔧 Comandos Útiles para Gestión
+
+Utiliza estos comandos de docker-compose para administrar tu entorno MobSF:ComandoDescripcióndocker-compose up -dIniciar la aplicación y ejecutar los contenedores en segundo plano.docker-compose downDetener y eliminar los contenedores y redes creados por Compose.docker-compose logs -fVer los logs de los servicios en tiempo real.docker-compose psVer el estado actual de los contenedores.docker-compose restartReiniciar el servicio MobSF.docker statsVer el uso de recursos (CPU, RAM) de los contenedores activos.
