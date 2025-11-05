@@ -81,4 +81,13 @@ Cliente Web (Navegador)
 ```
 ## 🔧 Comandos Útiles para Gestión
 
-Utiliza estos comandos de docker-compose para administrar tu entorno MobSF:ComandoDescripcióndocker-compose up -dIniciar la aplicación y ejecutar los contenedores en segundo plano.docker-compose downDetener y eliminar los contenedores y redes creados por Compose.docker-compose logs -fVer los logs de los servicios en tiempo real.docker-compose psVer el estado actual de los contenedores.docker-compose restartReiniciar el servicio MobSF.docker statsVer el uso de recursos (CPU, RAM) de los contenedores activos.
+Utiliza estos comandos de `docker-compose` para administrar tu entorno MobSF:
+
+| Comando | Descripción |
+| :--- | :--- |
+| `docker-compose up -d` | Iniciar la aplicación y ejecutar los contenedores en segundo plano. |
+| `docker-compose down` | Detener y eliminar los contenedores y redes creados por Compose. |
+| `docker-compose logs -f` | Ver los logs de los servicios en tiempo real. |
+| `docker-compose ps` | Ver el estado actual de los contenedores. |
+| `docker-compose restart` | Reiniciar el servicio MobSF. |
+| `docker stats` | Ver el uso de recursos (CPU, RAM) de los contenedores activos. |
