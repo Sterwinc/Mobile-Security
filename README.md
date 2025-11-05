@@ -15,12 +15,3 @@ docker-compose up -d
 # Acceder a: http://localhost:8000
 # Usuario: mobsf, Contraseña: mobsf
 
-🛠️ Características
-Análisis automático de APKs
-
-Detección de vulnerabilidades
-
-Reportes de seguridad
-
-Arquitectura con contenedores Docker
-
