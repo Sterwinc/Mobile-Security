@@ -11,7 +11,7 @@ Sigue estos sencillos pasos para poner en marcha el sistema:
 
 1.  **Clonar proyecto:**
     ```bash
-    git clone [https://github.com/Sterwinc/Mobile-Security.git](https://github.com/Sterwinc/Mobile-Security.git)
+    git clone https://github.com/Sterwinc/Mobile-Security.git
     ```
 
 2.  **Ejecutar:**
@@ -57,15 +57,15 @@ Para ejecutar este proyecto de forma óptima, necesitas:
 
 ## 🎯 Cómo Usar el Proyecto
 
+Este proyecto está preconfigurado para probar el archivo **`DivaApplication.apk`**, que ya se encuentra disponible en la raíz de este repositorio.
+
 | Paso | Acción | Descripción |
 | :--- | :--- | :--- |
 | **1. Instalación** | `docker-compose up -d` | Inicia el contenedor MobSF en segundo plano. |
 | **2. Acceso** | Abrir `http://localhost:8000` | Accede a la interfaz web de MobSF. |
-| **3. Login** | Usar `mobsf`/`mobsf` | Iniciar sesión con las credenciales predeterminadas. |
-| **4. Análisis** | Subir archivo APK | Arrastra o sube el archivo APK que deseas auditar. |
+| **3. Login** | Usar **`mobsf`** / **`mobsf`** | Iniciar sesión con las **credenciales predeterminadas** de MobSF. |
+| **4. Análisis** | Subir **`DivaApplication.apk`** | Arrastra el archivo APK de prueba (ya descargado desde este repositorio "DivaApplication.apk") para iniciar el análisis. |
 | **5. Resultados** | Revisar el reporte | Analiza la puntuación de seguridad y los detalles de las vulnerabilidades encontradas. |
-
----
 
 ## 🏗️ Arquitectura del Sistema
 
