@@ -11,7 +11,7 @@ Sigue estos sencillos pasos para poner en marcha el sistema:
 
 1.  **Clonar proyecto:**
     ```bash
-    git clone https://github.com/Sterwinc/Mobile-Security.git
+    git clone https://github.com/Sterwinc/Mobile-Security
     ```
 
 2.  **Ejecutar:**
