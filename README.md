@@ -1,7 +1,7 @@
 # 🛡️ Análisis de Seguridad Móvil con MobSF
 
-## 📚 Proyecto de Sistemas Distribuidos
-Este proyecto implementa un sistema para el análisis de seguridad en aplicaciones móviles utilizando **Mobile Security Framework (MobSF)** dentro de contenedores **Docker**, facilitando una instalación y ejecución rápidas.
+## 📚 Análisis de APK con MobSF
+Este proyecto universitario implementa un sistema para el análisis de seguridad en aplicaciones móviles utilizando **Mobile Security Framework (MobSF)** dentro de contenedores **Docker**, facilitando una instalación y ejecución rápidas.
 
 ---
 
