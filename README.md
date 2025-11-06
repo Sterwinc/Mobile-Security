@@ -81,7 +81,7 @@ Cliente Web (Navegador)
 ```
 ## 🔧 Comandos Útiles para Gestión
 
-Utiliza estos comandos de `docker-compose` para administrar tu entorno MobSF:
+Comandos de `docker-compose` para administrar tu entorno MobSF:
 
 | Comando | Descripción |
 | :--- | :--- |
